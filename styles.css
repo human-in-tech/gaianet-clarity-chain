@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.home-container {
+    text-align: center;
+    background-color: #1c1c1c; /* Dark gray background */
+    padding: 60px 40px; /* Increased padding for more space */
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    max-width: 900px;
+    width: 100%;
+}
+
+.logo {
+    width: 60px; /* Logo size */
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px; /* Increased spacing */
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 40px; /* Increased spacing */
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px; /* Increased button padding */
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px; /* Added top margin for spacing */
+}
+
+.feature {
+    max-width: 200px;
+}
+
+.feature h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.feature p {
+    font-size: 1rem;
+    color: #ccc; /* Light gray text */
+}
+
+.feature-divider {
+    width: 1px;
+    background-color: #666;
+    height: 80px; /* Reduced height for better spacing */
+    margin: 0 20px;
+}
