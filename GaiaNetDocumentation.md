@@ -6,6 +6,7 @@ Goal: To transform complex governance data into easy-to-read insights for users 
 Target Audience: DAO participants, blockchain enthusiasts, and newcomers seeking clarity in governance data.
 
 Development Phase:
+
     ->Setting the Gaianet node in the environment
     ->Initialise the node using the command:-  gaianet init
     ->Selecting suitable GaiaNet model, we used Llama-3-8B model.
