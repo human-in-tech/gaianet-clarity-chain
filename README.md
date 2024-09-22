@@ -62,7 +62,7 @@ This project aims to break down the complexities of blockchain governance for DA
 ## Contact
 If you have any questions or need assistance, feel free to reach out:
 
-[Email Text](mailto:rastogikashish984@gmail.com)
-[Email Text](mailto:khyatisingh.tech@gmail.com)
+[Kashish Rastogi](mailto:rastogikashish984@gmail.com)
+[Khyati Singh](mailto:khyatisingh.tech@gmail.com)
 
 
