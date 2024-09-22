@@ -6,12 +6,12 @@ Goal: To transform complex governance data into easy-to-read insights for users 
 Target Audience: DAO participants, blockchain enthusiasts, and newcomers seeking clarity in governance data.
 
 Development Phase:
-
     ->Setting the Gaianet node in the environment
     ->Initialise the node using the command:-  gaianet init
     ->Selecting suitable GaiaNet model, we used Llama-3-8B model.
     ->Adding your own Knowledge Base using https://tools.gaianet.xyz/
     ->Modify the configuration of your node ,for instance change the parameters like system_prompt,rag_prompt,chat_size.
+    
     ![JSON configuration](https://github.com/human-in-tech/gaianet-clarity-chain/blob/main/config.jpg?raw=true)
 
 
